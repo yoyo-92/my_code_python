@@ -30,7 +30,7 @@ with open(filename) as f:
         # highs.append(int(row[1]))
         # low = int(row[3])
         # lows.append(low)
-
+#sdgjfksdfjgsdjlfgsadfs,jdaflksad,fklh
     # print(highs)
     #plot data
     fig = plt.figure(dpi=128, figsize=(10,6))
